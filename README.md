@@ -43,7 +43,7 @@ Select **Chat Completion** and press **Enter**.
 
 Configure the JSON using the model information from aimlapi.com.
 
-**Root:**
+**Group:**
 
 * **`name`**: `AIMLAPI` or your preferred group name
 
